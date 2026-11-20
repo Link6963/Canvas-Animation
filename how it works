@@ -1,0 +1,1 @@
+#First we create the canvas height and width. Then we get the context of the canvasand create a square. We delete it and move it one pixel and repeat it. We can do this beacausethe positionis 0 but when we do the function we add 1 to position.
